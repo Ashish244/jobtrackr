@@ -1,0 +1,8 @@
+com\example\jobtrackr\domain\Application$ApplicationBuilder.class
+com\example\jobtrackr\JobTrackrApplication.class
+com\example\jobtrackr\domain\ApplicationStatus.class
+com\example\jobtrackr\service\ApplicationService.class
+com\example\jobtrackr\domain\Application.class
+com\example\jobtrackr\web\ErrorAdvice.class
+com\example\jobtrackr\repo\ApplicationRepository.class
+com\example\jobtrackr\api\ApplicationController.class
